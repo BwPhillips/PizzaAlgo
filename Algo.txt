@@ -1,0 +1,4 @@
+Order Pizza
+Add Cheese
+Add Peppers
+Checkout
