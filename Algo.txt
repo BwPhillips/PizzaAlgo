@@ -2,3 +2,6 @@ Order Pizza
 Add Cheese
 Add Peppers
 Checkout
+Get Pizza 
+Eat Pizza
+Go to Bed
